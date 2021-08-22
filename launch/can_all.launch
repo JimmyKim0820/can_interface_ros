@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+  <node name="niro_listner" pkg="can_interface" type="niro_listner.py" />
+  <node name="mobileye_listner" pkg="can_interface" type="mobileye_listner.py" />
+  <node name="niro_converter" pkg="can_interface" type="niro_converter.py"/>
+  <node name="mobileye_converter" pkg="can_interface" type="mobileye_converter.py"/>
+</launch>

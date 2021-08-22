@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+  <node name="simulate_can" pkg="can_interface" type="k7_steering_from_niro.py" />
+</launch>

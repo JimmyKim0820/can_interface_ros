@@ -3,7 +3,7 @@ This is a ros package that communicates with a vehicle through CAN
 
 # Untitled
 
-![pictures/_.png](pictures/_.png/_.png)
+![/pictures/_.png](pictures/_.png/_.png)
 
 # Receiving and Decoding CAN data - ROS Package
 

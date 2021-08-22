@@ -1,8 +1,6 @@
 # can_ros_interface
 This is a ros package that communicates with a vehicle through CAN
 
-# Untitled
-
 ![mylogo](https://user-images.githubusercontent.com/55337221/130344677-5c436f22-9f3b-4dc7-9da9-4beefc085799.png)
 
 
